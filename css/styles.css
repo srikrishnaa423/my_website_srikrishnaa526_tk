@@ -68,10 +68,10 @@ header {
   /*text-align: center;*/
 }
 .profile-img {
-  /*width: 300px;*/
+  width: 210px;
   border-radius: 50%;
-  /*float: left;*/
-  /*margin-right: 30px;*/
+  /* float: left;
+  margin-right: 30px; */
 }
 
 /* Footer styles only */
@@ -87,13 +87,13 @@ footer {
 
 /* Work Experience
 ------------------------------------*/
-.work {
+.projects {
     background: #EDF2F4;
 }
 
 
 /* Education
 ------------------------------------*/
-.education {
+.education_work {
     background: #8D99AE;
 }
